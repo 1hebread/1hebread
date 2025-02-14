@@ -1,6 +1,8 @@
 # 💫 Hi, i'm The Bread!
 I'm a russian developer in Node.JS and Python. I currently creating Discord Bot.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&width=435&lines=Developer+in+Python+and+Node.JS;Creator+Discord+Bots)](https://git.io/typing-svg)
+
 ## 🌐 Connect with me
 [![Static Badge](https://img.shields.io/badge/Discord-black?logo=discord)](https://discord.com/users/586408737712111616)
 
@@ -13,15 +15,15 @@ I'm a russian developer in Node.JS and Python. I currently creating Discord Bot.
   </tr>
   <tr>
     <td>
-      <center><img src="https://img.shields.io/badge/-NodeJS-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-NodeJS-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
       <br>
-      <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></center>
+      <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
     </td>
     <td>
-      <center><img alt="Static Badge" src="https://img.shields.io/badge/Discord.JS-black?logo=javascript"></center>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Discord.JS-black?logo=javascript">
     </td>
     <td>
-      <center><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></center>
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
     </td>
 </table>
 
