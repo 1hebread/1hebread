@@ -27,16 +27,11 @@ I'm a russian developer in Node.JS and Python. I currently creating Discord Bot.
 
 ## 📊 GitHub Stats
 
-<div align="center">
 <a href="https://github.com/1hebread">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1hebread&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
-</a>
-
-<a href="https://github.com/1hebread">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hebread&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hebread&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48.5%" />
 </a>
 <a href="https://github.com/1hebread">
-  <img src="https://github-contributor-stats.vercel.app/api?username=1hebread&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" width="89%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=1hebread&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" width="48.5%" />
 </a>
 
 </div>
