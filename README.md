@@ -1,7 +1,7 @@
 # 💫 Hi, i'm The Bread!
 I'm a russian developer in Node.JS and Python. I currently creating Discord Bot.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&width=435&lines=Developer+in+Python+and+Node.JS;Creator+Discord+Bots)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&width=435&lines=Developer+in+Python+and+Node.JS;Creator+Discord+Bots)](https://github.com/1hebread)
 
 ## 🌐 Connect with me
 [![Static Badge](https://img.shields.io/badge/Discord-black?logo=discord)](https://discord.com/users/586408737712111616)
